@@ -1,1 +1,3 @@
 Second demo on git
+Add some more information to end of sample.txt file.
+Using a text editor to make changes.
